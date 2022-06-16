@@ -1,6 +1,2 @@
 # ITS204
-Repository for PAYPAL SDK integration Assignment
-
-#First Program
-
-Hello World
+Repository for ITS204 assignments
